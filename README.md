@@ -31,7 +31,7 @@ You need your own API key to run it.
    - **Maps JavaScript API**  
    - **Street View Static API** (optional, if you expand later)  
 4. Create an API key under **APIs & Services → Credentials**.  
-5. Replace the placeholder in `index.html`:
+5. Replace the placeholder in `game.html`:
 
 ```js
 // line near the top of the file
